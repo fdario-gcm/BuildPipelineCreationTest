@@ -15,6 +15,6 @@ resources:
     type: 'github'
     name: 'GCMGrosvenor/Gcm.AzureDevOps.Templates'
     ref: 'refs/heads/master'
-    endpoint: 'GCMGrosvenor'
+    endpoint: 'fdario-gcm'
 jobs:
 - template: build/build.steps.yml@templates
